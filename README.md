@@ -20,5 +20,5 @@ Below are the screenshot of the interface:
 
 ![Basic Search](https://github.com/KarthikSiddarth/searchGutenbergFrontEnd/blob/master/screenshots/basic_search_snap.png)
 ![Advanced Search](https://github.com/KarthikSiddarth/searchGutenbergFrontEnd/blob/master/screenshots/advanced_search_snap.png)
-![Basic Search Results page](https://github.com/KarthikSiddarth/searchGutenbergFrontEnd/blob/master/screenshots/advanced_search_snap.png)
-![Advanced Search Results Page](https://github.com/KarthikSiddarth/searchGutenbergFrontEnd/blob/master/screenshots/advanced_search_snap.png)
+![Basic Search Results page](https://github.com/KarthikSiddarth/searchGutenbergFrontEnd/blob/master/screenshots/basic_search_results.png)
+![Advanced Search Results Page](https://github.com/KarthikSiddarth/searchGutenbergFrontEnd/blob/master/screenshots/advanced_search_results.png)
